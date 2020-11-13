@@ -1,0 +1,64 @@
+.container .a{
+    border-radius: 50%;
+    
+    position: absolute;
+   top: 7%;
+   
+    
+}
+
+.container .b{
+    font-size: 30px;
+    position: relative;
+    left: 0.8%;
+    
+    
+}
+
+.container .c{
+    position: absolute;
+    top: 30%;
+}
+
+.container .c .d{
+    font-size: 20px;
+    top: 30%;
+    
+}
+
+.listProgram .bar{
+    width: 150px;
+    height: 10px;
+    border: solid 2px #FF7168;
+    border-radius: 5px;
+    
+
+    
+    
+  }
+  .listProgram li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+  }
+  .value{
+    height: 100%;
+    width: 60%;
+    background-color: #FF7168;
+    
+  }
+ 
+  .value.p40{
+    width: 40%;
+  }
+  .value.p50{
+    width: 50%;
+  }
+  
+  
+  .container .c .e{
+    
+    margin-left: 35px;
+    
+}
